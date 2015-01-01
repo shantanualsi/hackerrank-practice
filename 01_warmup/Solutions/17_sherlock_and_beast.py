@@ -1,3 +1,5 @@
+# This solution is incorrect and needs correction for some testcases
+
 def decent(n):
 	count=0;
 	if n == 3:
